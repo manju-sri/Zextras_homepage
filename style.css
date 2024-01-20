@@ -1,0 +1,154 @@
+.nav-section{
+   height: 80px;
+   width: 100%;
+   background-color: #00506D;
+   color: white;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.logo{
+    padding-right: 400px;
+    padding-left: 50px;
+    font-weight: 500;
+
+}
+.nav-cont{
+    color: white;
+    padding: 10px;
+    font-size: large;
+    padding-top: 25px;
+    font-weight: 100;
+}
+.nav-cont:hover{
+    color: #000;
+}
+.first-cont{
+    width: 100%;
+    height: 600px; 
+    background: linear-gradient(0,#1F6982, #81bed4,#1F6982);
+    display: flex;
+    justify-content: space-around;
+}
+.fly-city{
+    height: 580px;
+    width: 500px;
+    justify-content:flex-end;
+    margin-top: 20px;
+}
+.head-content{
+    font-size: 400%;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: -30px;
+    
+}
+.line{
+    margin-top: 120px;
+    margin-left: 100px;
+}
+.des{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:180%;
+    font-weight: lighter;
+}
+#btn{
+    height:50px ;
+    width: 200px;
+    color: white;
+    border-radius: 10px;
+    background-color: red;
+    font-size: large;
+    border: 0cap;
+}
+.sec-cont{
+    display: flex;
+    justify-content: space-around;
+    color: #0076B9;
+    font-size: x-large;
+    font-weight: lighter; 
+    margin-top: 100px;
+}
+.sec-cont>h3{
+   color: #0076B9;
+}
+.sec-img{
+    display: flex;
+    justify-content: space-around;
+}
+.c3{
+    width: 500px;
+}
+.container3{
+    margin-top: 120px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:center;
+}
+.c3-img{
+    margin-right: 80px;
+}
+.c3>h2{
+    font-size: 30px;
+}
+.c3>p{
+    font-size: 16px;
+    font-weight: 900px;
+}
+.c4{
+    width: 550px;
+    margin-left: 30px;
+}
+.c4-img{
+    margin-left: 20px;
+}
+.ft{
+    background-color: #182126;
+    height: 700px;
+    width: 100%;
+}
+.icon{
+ display: flex;
+ flex-direction: column;
+ align-items:flex-start;
+ margin-top: 20px;
+}
+.logo1{
+    color: white;
+    padding-top: 20px;
+    margin-left: 30px;
+    font-size: larger;
+}
+.icon-img{
+    margin-left: 80px;
+}
+.ft-bar{
+    color: white;
+    margin-top: 60px;
+}
+.ft-1{
+    display: flex;
+}
+.cnt{
+    height: 300px;
+    width: 230px;
+}
+.cnt>a,h3{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    text-decoration: none;
+}
+.end{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
